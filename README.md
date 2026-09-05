@@ -1,4 +1,4 @@
-# Awesome Threat Intelligence [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Threat Intelligence [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1010399343.svg)](https://doi.org/10.5281/zenodo.19682080)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -88,10 +88,10 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- **[Awesome Cybersecurity](https://github.com/awesomelistsio/awesome-cybersecurity)** – General cybersecurity resources and tools.
-- **[Awesome OSINT](https://github.com/awesomelistsio/awesome-osint)** – Open-source intelligence tools and resources.
-- **[Awesome Privacy](https://github.com/awesomelistsio/awesome-privacy)** – Tools and knowledge for digital privacy.
-- **[Awesome Malware Analysis](https://github.com/awesomelistsio/awesome-malware-analysis)** – Tools and resources for analyzing malicious software.
+- **[Awesome Cybersecurity](https://github.com/brandonhimpfen/awesome-cybersecurity)** – General cybersecurity resources and tools.
+- **[Awesome OSINT](https://github.com/brandonhimpfen/awesome-osint)** – Open-source intelligence tools and resources.
+- **[Awesome Privacy](https://github.com/brandonhimpfen/awesome-privacy)** – Tools and knowledge for digital privacy.
+- **[Awesome Malware Analysis](https://github.com/brandonhimpfen/awesome-malware-analysis)** – Tools and resources for analyzing malicious software.
 
 ## Contribute
 
